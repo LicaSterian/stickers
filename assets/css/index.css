@@ -1,0 +1,25 @@
+.top-bar-left {
+    margin-top: 10px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.nav-avatar {
+    height: 35px;
+    cursor: pointer;
+    margin: 10px 20px 10px 0px;
+}
+
+.stickers-orbit {
+    background-image: url("/assets/img/macbook-pro.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 620px;
+}
+
+.orbit-container {
+    height: 100% !important;
+}
